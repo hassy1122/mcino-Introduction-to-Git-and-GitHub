@@ -9,6 +9,6 @@ $ git branch -a
 
 $ git branch -vv
 
-  bug-fix-typo 5929d02 Fix typo in simple-interest.sh: Addtional -> Additional
-* main         5929d02 [origin/main] Fix typo in simple-interest.sh: Addtional -> Additional
+  bug-fix-typo 8bde1ab Fix typo: Addtional -> Additional
+* main         ab649f0 [origin/main] Merge pull request #4 from hassy1122/bug-fix-typo
 
